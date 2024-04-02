@@ -1,0 +1,31 @@
+{
+  "shipmentType": "LTL",
+  "readyForPickup": null,
+  "customerPONumber": null,
+  "serviceLevel": "Curbside (Liftgate)",
+  "specialInstructions": "Test Special Instructions",
+  "pickupLocation": {
+    "name": "AutoCom90001",
+    "zipCode": null,
+    "type": null
+  },
+  "dropoffLocation": {
+    "name": "AutoCom10011",
+    "zipCode": null,
+    "type": null
+  },
+  "shipmentItems": [
+    {
+      "quantity": "1",
+      "packageType": "Non-Palletized",
+      "weight": "40",
+      "dimensionLength": "65",
+      "dimensionWidth": "40",
+      "dimensionHeight": "40",
+      "category": "Vanity",
+      "declaredValue": "600",
+      "detailedDescription": "Test Description",
+      "palletItems": null
+    }
+  ]
+}
